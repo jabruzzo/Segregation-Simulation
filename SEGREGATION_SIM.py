@@ -2,7 +2,7 @@
 # Author: JOSEPH M ABRUZZO
 # Date: Jan. 2017
 # ----------------------------
-# This program replicates Schelling's (1973) Jornal of Mathematical Sociology
+# This program replicates Schelling's (1971) Jornal of Mathematical Sociology
 # paper modeling segregation behavior as an emergent property of a simple
 # agent-based model.
 
